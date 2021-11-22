@@ -36,5 +36,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project is a clone of the [Instagram](https://instagram.com) web app, built using ReactJS and connected to a Firebase backend to improve its functionality - from signing up to uploading posts, and adding comments to posts.",
+  "main": "index.js",
+  "author": "Blessing Krofegha",
+  "license": "ISC"
 }
